@@ -44,5 +44,8 @@ the book-[book](https://book.algospot.com)
 I am interested in computer vision, but I don't know much about it, so I am taking a course that teaches how to use matlab and computer vision.<br>
 I am learning basic techniques such as image structure, image color separation, and image segmentation.<br>
 link- [link](https://www.coursera.org/specializations/image-processing)
+<br><br>
+**Reinforcement Learning and AI Systems Study Group**
+Recognized the need to deepen my understanding of both subjects and organized a study group through mentoring, focusing on reinforcement learning and AI system fundamentals.
 
 
