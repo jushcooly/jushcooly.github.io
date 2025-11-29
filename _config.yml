@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "kr_Seoul"
+locale                   : "en"
 title                    : "Seo JunHyeok"
 title_separator          : "-"
 name                     : &name "Seo JunHyeok"
