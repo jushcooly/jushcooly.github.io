@@ -13,16 +13,8 @@ author_profile: true
 YeongIl Highschool(in pohang)<br>
 • started to intersted in computer and AI
 <br><br>
-Yonsei University(Sophomore) <br>
+Yonsei University(Junior) <br>
 
-<h3>• Coursework<br></h3>
-<br>
-Linear Algebra- how to analyze the space like vector and matrix.<br>
-Data Structure- learning data structure and basic algorithm<br>
-Probability and Statistics- learning how to analyze the data with Statistics<br>
-Computer Programming, oriented optimal programming- learning how to make code, and basic programming<br>
-
-<br>
 
 <h2>Additional Experience</h2>
 
