@@ -30,9 +30,8 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "3rd year AI major student at Yonsei University"
   location         : "Soul, Korea"
-  employer         : "[Yonsei University](https://www.yonsei.ac.kr)"  
-  uri              : "https://ai.yonsei.ac.kr"                      
-  uri_label        : "Department Website"                            
+  employer         : "Yonsei University"  
+  uri              : "https://ai.yonsei.ac.kr"                                                  
   email            : "junhyeoks@yonsei.ac.kr" 
 
   # Repositories and software development
