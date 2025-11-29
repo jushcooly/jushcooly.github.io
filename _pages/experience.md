@@ -5,8 +5,6 @@ author_profile: true
 ---
 
 
-
-
 <h2>education</h2>
 
 <br>
