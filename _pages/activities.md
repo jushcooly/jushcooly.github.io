@@ -46,6 +46,7 @@ I am learning basic techniques such as image structure, image color separation, 
 link- [link](https://www.coursera.org/specializations/image-processing)
 <br><br>
 **Reinforcement Learning and AI Systems Study Group**
+<br>
 Recognized the need to deepen my understanding of both subjects and organized a study group through mentoring, focusing on reinforcement learning and AI system fundamentals.
 
 
