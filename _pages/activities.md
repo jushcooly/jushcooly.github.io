@@ -70,6 +70,12 @@ Based on the basic Pac-Man, an AI was created that automatically achieves high s
 <a href="https://github.com/jushcooly/pacman-js-" class="btn btn--warning" target="_blank" style="font-weight: bold; color: black;">
   ᗧ · · ·  View AI Pac-Man Project
 </a>
-
+<br><br>
+<div style="margin-top: 20px; text-align: center;">
+  <video width="100%" max-width="600px" controls style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <source src="https://jushcooly.github.io/episode_3.mp4" type="video/mp4">
+    브라우저가 동영상 재생을 지원하지 않습니다.
+  </video>
+</div>
 
 
