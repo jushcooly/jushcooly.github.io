@@ -54,7 +54,7 @@ Recognized the need to deepen my understanding of both subjects and organized a 
 Review the basics of CNN and learn various related techniques<br><br>
 **Deep Learning(CNN) perfect guide with pytorch**
 <br> I learned by implementing various PyTorch settings and structures such as CutMix, data augmentation, AlexNet, VGG, GoogleNet, and ResNet 50.<br><br>
-<a href="./certificate_pytorch%20guide.pdf" class="btn btn--danger" target="_blank" style="font-weight: bold;"> PyTorch Guide Certificate</a> <br><br>
+<a href="{{ site.url }}{{ site.baseurl }}/certificate_pytorch%20guide.pdf" class="btn btn--danger" target="_blank" style="font-weight: bold;"> PyTorch Guide Certificate</a><br><br?
 **Building transformers from Scratch**
 <br>
 I learned by directly implementing transform theory, BERT, positional embedding, MarianMT, encoder, and decoder structures.<br><br>
