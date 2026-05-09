@@ -14,7 +14,7 @@ the source - <a href="https://github.com/jushcooly/baekjoonFile" class="btn btn-
 <br>
 Selected as a nationwide Kakao MODU scholarship recipient for students with disabilities in science and engineering, and participated in various activities related to career planning.<br><br>
 -presented my future career plan.<br><br>
-**Liberal arts**
+**Liberal arts**<br>
 Interested in philosophy and engaged in discussions with club members on various philosophical ideas and
 contemporary social issues.<br><br>
 
