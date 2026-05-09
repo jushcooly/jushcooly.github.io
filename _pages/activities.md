@@ -8,7 +8,7 @@ author_profile: true
 
 **Mogorithm** : Interested in PS, I learned about and analyzed algorithms by solving problems that appeared in competition(ICPC)s with other members
 <br>
-the source - <a href="https://github.com/jushcooly/baekjoonFile" class="btn btn--inverse" target="_blank" style="font-weight: bold;">⌨️ Baekjoon PS Repository</a>
+the source - <a href="https://github.com/jushcooly/baekjoonFile" class="btn btn--inverse" target="_blank" style="font-weight: bold;"> Baekjoon PS Repository</a>
 <br>
 **Kakao MODU Scholarship Program**
 <br>
