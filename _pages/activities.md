@@ -49,4 +49,20 @@ link- [link](https://www.coursera.org/specializations/image-processing)
 <br>
 Recognized the need to deepen my understanding of both subjects and organized a study group through mentoring, focusing on reinforcement learning and AI system fundamentals.
 
+**Learning CNN from Core principles to practical**
+<br><br>
+Review the basics of CNN and learn various related techniques<br><br>
+**Deep Learning(CNN) perfect guide with pytorch**
+<br> I learned by implementing various PyTorch settings and structures such as CutMix, data augmentation, AlexNet, VGG, GoogleNet, and ResNet 50.<br><br>
+**Building transformers from Scratch**
+<br>
+I learned by directly implementing transform theory, BERT, positional embedding, MarianMT, encoder, and decoder structures.<br><br>
+**self-moving pacman project**
+<br>
+Based on the basic Pac-Man, an AI was created that automatically achieves high scores by utilizing various reinforcement learning techniques and game-appropriate ideas.<br><br>
+
+-Through this project, I realized that while having a good theoretical understanding is important, optimizing and applying techniques suited to the situation is also crucial.<br>
+link- [link](https://github.com/jushcooly/pacman-js-)
+
+
 
