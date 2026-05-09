@@ -61,7 +61,7 @@ Review the basics of CNN and learn various related techniques<br><br>
 <br>
 I learned by directly implementing transform theory, BERT, positional embedding, MarianMT, encoder, and decoder structures.<br><br>
 <a href="https://jushcooly.github.io/transformer_certificate.pdf" class="btn btn--info" target="_blank" style="font-weight: bold;"> Transformer Models Certificate</a>
-<br><br?
+<br><br>
 **self-moving pacman project**
 <br>
 Based on the basic Pac-Man, an AI was created that automatically achieves high scores by utilizing various reinforcement learning techniques and game-appropriate ideas.<br><br>
