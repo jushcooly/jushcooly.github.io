@@ -71,11 +71,8 @@ Based on the basic Pac-Man, an AI was created that automatically achieves high s
   ᗧ · · ·  View AI Pac-Man Project
 </a>
 <br><br>
-<div style="margin-top: 20px; text-align: center;">
-  <video width="100%" max-width="600px" controls playsinline webkit-playsinline style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <source src="https://jushcooly.github.io/episode_3.mp4" type="video/mp4">
-    브라우저가 동영상 재생을 지원하지 않습니다.
-  </video>
+<div style="text-align: center; margin-top: 20px; margin-bottom: 20px;">
+  <iframe width="315" height="560" src="https://www.youtube.com/embed/Fti4d9CPH5I" title="YouTube Shorts player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="border-radius: 15px; box-shadow: 0 6px 12px rgba(0,0,0,0.15);"></iframe>
 </div>
 
 
