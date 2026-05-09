@@ -8,7 +8,7 @@ author_profile: true
 
 **Mogorithm** : Interested in PS, I learned about and analyzed algorithms by solving problems that appeared in competition(ICPC)s with other members
 <br>
-the source - [baekjoonFile](https://github.com/jushcooly/baekjoonFile)
+the source - <a href="https://github.com/jushcooly/baekjoonFile" class="btn btn--inverse" target="_blank" style="font-weight: bold;">⌨️ Baekjoon PS Repository</a>
 <br>
 **Kakao MODU Scholarship Program**
 <br>
@@ -24,7 +24,7 @@ contemporary social issues.<br><br>
 **Deep learning From Scratch 1,2**
 <br>
 I was curious about how AI learns data and wanted to learn about the basics of deep learning.<br> So, by reading this book, I think I was able to learn the basics of NumPy, neural networks, error calculation, and basic CNN concepts with a focus on coding.<br><br>
-the link-[link](https://github.com/kchcoo/WegraLee-deep-learning-from-scratch)
+the link-<a href="https://github.com/kchcoo/WegraLee-deep-learning-from-scratch" class="btn btn--inverse" target="_blank" style="font-weight: bold;">Deep Learning from Scratch</a>
 
 
 **CS229-Andrew Ng(2018-autumn)-on youtube**
@@ -37,13 +37,13 @@ the link-[link](https://github.com/kchcoo/WegraLee-deep-learning-from-scratch)
 **Algorithmic Problem Solving Strategies**
 <br>
 After taking a data structure class and joining a club called Morgorithm, I studied this book because I was curious about in-depth information about algorithms.<br> I was able to learn in detail about when to use algorithms in realistic situations and how to use which algorithms<br><br>
-the book-[book](https://book.algospot.com)
+<a href="https://book.algospot.com" class="btn btn--primary" target="_blank" style="font-weight: bold;"> Algospot Algorithm Book</a>
 <br><br>
 **Image Processing for Engineering and Science Specialization(Coursera)**
 <br>
 I am interested in computer vision, but I don't know much about it, so I am taking a course that teaches how to use matlab and computer vision.<br>
 I am learning basic techniques such as image structure, image color separation, and image segmentation.<br>
-link- [link](https://www.coursera.org/specializations/image-processing)
+<a href="https://www.coursera.org/specializations/image-processing" class="btn btn--success" target="_blank" style="font-weight: bold;"> Image Processing Specialization</a>
 <br><br>
 **Reinforcement Learning and AI Systems Study Group**
 <br>
@@ -62,7 +62,7 @@ Review the basics of CNN and learn various related techniques<br><br>
 I learned by directly implementing transform theory, BERT, positional embedding, MarianMT, encoder, and decoder structures.<br><br>
 <a href="https://jushcooly.github.io/transformer_certificate.pdf" class="btn btn--info" target="_blank" style="font-weight: bold;"> Transformer Models Certificate</a>
 <br><br>
-**self-moving pacman project**
+**Self-moving pacman project**
 <br>
 Based on the basic Pac-Man, an AI was created that automatically achieves high scores by utilizing various reinforcement learning techniques and game-appropriate ideas.<br><br>
 
