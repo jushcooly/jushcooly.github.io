@@ -52,7 +52,7 @@ Recognized the need to deepen my understanding of both subjects and organized a 
 **Learning CNN from Core principles to practical**
 <br><br>
 Review the basics of CNN and learn various related techniques<br><br>
-<a href="https://jushcooly.github.io/certificate_basic.pdf" class="btn btn--success" target="_blank" style="font-weight: bold;"> Basic AI Certificate</a>
+<a href="https://jushcooly.github.io/certificate_basic.pdf" class="btn btn--success" target="_blank" style="font-weight: bold;"> Basic AI Certificate</a><br><br>
 **Deep Learning(CNN) perfect guide with pytorch**
 <br> I learned by implementing various PyTorch settings and structures such as CutMix, data augmentation, AlexNet, VGG, GoogleNet, and ResNet 50.<br><br>
 <a href="https://jushcooly.github.io/certificate_pytorch%20guide.pdf" class="btn btn--danger" target="_blank" style="font-weight: bold;"> PyTorch Guide Certificate</a>
