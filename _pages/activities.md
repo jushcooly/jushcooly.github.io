@@ -67,7 +67,9 @@ I learned by directly implementing transform theory, BERT, positional embedding,
 Based on the basic Pac-Man, an AI was created that automatically achieves high scores by utilizing various reinforcement learning techniques and game-appropriate ideas.<br><br>
 
 -Through this project, I realized that while having a good theoretical understanding is important, optimizing and applying techniques suited to the situation is also crucial.<br>
-link- [link](https://github.com/jushcooly/pacman-js-)
+<a href="https://github.com/jushcooly/pacman-js-" class="btn btn--warning" target="_blank" style="font-weight: bold; color: black;">
+  ᗧ · · ·  View AI Pac-Man Project
+</a>
 
 
 
