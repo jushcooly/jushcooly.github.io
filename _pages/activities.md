@@ -39,12 +39,7 @@ the link-<a href="https://github.com/kchcoo/WegraLee-deep-learning-from-scratch"
 After taking a data structure class and joining a club called Morgorithm, I studied this book because I was curious about in-depth information about algorithms.<br> I was able to learn in detail about when to use algorithms in realistic situations and how to use which algorithms<br><br>
 <a href="https://book.algospot.com" class="btn btn--primary" target="_blank" style="font-weight: bold;"> Algospot Algorithm Book</a>
 <br><br>
-**Image Processing for Engineering and Science Specialization(Coursera)**
-<br>
-I am interested in computer vision, but I don't know much about it, so I am taking a course that teaches how to use matlab and computer vision.<br>
-I am learning basic techniques such as image structure, image color separation, and image segmentation.<br>
-<a href="https://www.coursera.org/specializations/image-processing" class="btn btn--success" target="_blank" style="font-weight: bold;"> Image Processing Specialization</a>
-<br><br>
+
 **Reinforcement Learning and AI Systems Study Group**
 <br>
 Recognized the need to deepen my understanding of both subjects and organized a study group through mentoring, focusing on reinforcement learning and AI system fundamentals.
