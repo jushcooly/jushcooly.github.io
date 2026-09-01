@@ -11,7 +11,9 @@ author_profile: true
 YeongIl Highschool(in pohang)<br>
 • started to intersted in computer and AI
 <br><br>
-Yonsei University(Junior) <br>
+Yonsei University(Senior) <br>
+<br><br>
+Yonsei Unviersity VisualAilab intern
 
 
 <h2>Additional Experience</h2>
