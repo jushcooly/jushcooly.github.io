@@ -7,8 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior AI undergraduate at Yonsei University. My interest centers on reinforcement learning and how it lets models learn creative, adaptive behavior. Having navigated physical mobility challenges firsthand, I bring a grounded, physical-therapy-informed perspective that I aim to carry into my research.
-<h2>Interested in</h2>
-Reinforcement Learning - I am drawn to how reinforcement learning lets models discover novel, creative behaviors through the way they are trained.
+I am a senior AI undergraduate at Yonsei University. I am interested in how AI techniques are built, not just what they achieve, understanding why each architectural component is there, and redesigning models so the same capability runs more efficiently.
+
 <h2>Technologies</h2>
 Languages: Korean (native), English (TOEIC: listening and writing: 820)<br> Computer Languages: C++, Python<br> Technologies: TensorFlow, numpy, pandas, basic algorithm
